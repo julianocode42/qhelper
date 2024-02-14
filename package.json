@@ -1,0 +1,19 @@
+{
+  "name": "qhelper",
+  "version": "1.0.0",
+  "description": "quality helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianocode42/qhelper.git"
+  },
+  "author": "Juliano Soares da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianocode42/qhelper/issues"
+  },
+  "homepage": "https://github.com/julianocode42/qhelper#readme"
+}
