@@ -1,6 +1,6 @@
 {
   "name": "qhelper",
-  "version": "1.2.0",
+  "version": "1.5.0",
   "description": "quality helper",
   "main": "bin/index.js",
   "bin": {
@@ -22,6 +22,11 @@
   },
   "homepage": "https://github.com/julianocode42/qhelper#readme",
   "devDependencies": {
+    "@types/ws": "^8.5.10",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "ws": "^8.16.0"
   }
 }
